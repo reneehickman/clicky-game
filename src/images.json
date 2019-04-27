@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "image": "./images/daisy1.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./images/daisy2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./images/daisy3.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./images/daisy4.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./images/daisy5.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./images/daisy6.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./images/daisy7.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./images/daisy8.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./images/daisy9.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./images/daisy10.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./images/daisy11.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./images/daisy12.jpg",
+      "clicked": false
+    },
+    {
+        "id": 13,
+        "image": "./images/daisy13.jpg",
+        "clicked": false
+      },
+      {
+        "id": 14,
+        "image": "./images/daisy14.jpg",
+        "clicked": false
+      },
+      {
+        "id": 15,
+        "image": "./images/daisy15.jpg",
+        "clicked": false
+      },
+      {
+        "id": 16,
+        "image": "./images/daisy16.jpg",
+        "clicked": false
+      }
+  ]
+  
