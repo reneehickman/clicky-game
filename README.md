@@ -2,6 +2,8 @@
 
 Click-a-Daisy is a memory game built with `React.js`. The user must click on the images without clicking on the same image twice until all 16 images are clicked. Each image clicked scores one point but if the same image it clicked twice, the score resets to 0 and the game starts over.
 
+Click [here](https://reneehickman.github.io/clicky-game/) to view the deployed app Github pages.
+
 ![Screenshot](screenshot.JPG)
 
 ## Technologies used

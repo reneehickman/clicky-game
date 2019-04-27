@@ -1,16 +1,6 @@
 import React from 'react';
 import './style.css';
 
-
-
-// const styles = ({
-//   height: {
-//     height: "25px",
-//     width: "25px",
-//   },
-// });
-
-
 const Footer = () => {
     return (
       <div className="footer">

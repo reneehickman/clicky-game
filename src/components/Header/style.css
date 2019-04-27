@@ -1,9 +1,7 @@
 
 
 .jumbotron:before{
-    background:url('/images/bg2.jpg');
-    /* background-position:center;
-    background-size:cover; */
+    background-image:url('./bg2.jpg');
     content: "";
     position: absolute;
     z-index: -1;
@@ -16,7 +14,6 @@
 
 .jumbotron{
   margin-bottom:20px;
-  /* padding:5rem 2rem; */
   padding-top:200px;
   position: relative;
   z-index: 1;

@@ -9,9 +9,6 @@ function Nav(props) {
       <li className="brand">
         <a href="/clicky-game"><img src='./images/doo3.png' alt=""/><span className="doo">Click-a-Daisy</span></a>
       </li>
-      {/* <li className="brand">
-      {props.message}
-      </li> */}
       <li className="score">
       <h4 className="">
 					{props.message}
@@ -22,12 +19,6 @@ function Nav(props) {
 
 
       <h4 className="message">Score: {props.score} &nbsp;|&nbsp; Top Score: {props.topScore}</h4>
-
-
-    {/* <h4 className="message">
-					{props.message}
-					</h4>
-			 */}
 
     </div>
   );
