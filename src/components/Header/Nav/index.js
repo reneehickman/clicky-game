@@ -7,7 +7,7 @@ function Nav(props) {
     <nav className="navbar">
     <ul>
       <li className="brand">
-        <a href="/ClickyGame"><img src='./images/doo3.png' alt=""/><span className="doo">Click-a-Daisy</span></a>
+        <a href="/clicky-game"><img src='./images/doo3.png' alt=""/><span className="doo">Click-a-Daisy</span></a>
       </li>
       {/* <li className="brand">
       {props.message}
